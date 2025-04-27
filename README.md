@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...545
 - ⚡ Fun fact: ...45454
+- 😄 Hello Hello
 
 <!---
 bu55072/bu55072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
