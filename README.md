@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...45454
 - 😄 Hello Hello
 - Hello Again
+- Daily Checkin
 
 <!---
 bu55072/bu55072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
