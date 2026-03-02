@@ -16,6 +16,7 @@
 - two weeks passed
 - today is 02-12-2025
 - today is 10-12-2025
+- March checkin
 - today is 29-12-2025
 - Welcome New Year 2026! May we have happiness and success this year!
 - today is 8th of January 2026!
